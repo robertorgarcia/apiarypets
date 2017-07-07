@@ -103,7 +103,7 @@ paths:
           required: true
           type: integer
           format: int64
-          default: 0
+          default: 1
       responses:
         204:
           description: pet deleted
